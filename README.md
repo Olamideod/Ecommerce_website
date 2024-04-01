@@ -10,7 +10,7 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:5173/](http://localhost:5173/) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
@@ -28,6 +28,27 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+
+## Features: 
+
+👉🏻 Responsive Complete Landing page with popup modal.
+👉🏻 Responsive Navbar with dropdown menu.
+👉🏻 Dark and Light mode features.
+👉🏻 Beautiful Animated website (Animate on scroll).
+👉🏻 Fully responsive Hero page( All device supported )
+👉🏻 Modern responsive product card
+👉🏻 Responsive Footer using Tailwind CSS.
+
+
+## 💼 Packages :
+
+tailwind css - https://tailwindcss.com/
+react - https://react.dev
+vite js - https://vitejs.dev/guide/
+react icons - https://react-icons.github.io/
+image- https://pngtree.com/freebackground
+
 
 ## Deploy on Vercel
 
