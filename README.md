@@ -50,8 +50,9 @@ image- https://pngtree.com/freebackground
 
 
 ## Deploy on Vercel
-[!Vercel Deployed link](https://ecommerce-site-q5xdqv9v4-olamides-projects-034f3bf9.vercel.app/)
-[!Olamide's Ecommerce Website](ecommerce-site-omega-rose.vercel.app)
+[Vercel Deployed link](https://ecommerce-site-q5xdqv9v4-olamides-projects-034f3bf9.vercel.app/),
+
+[Olamide's Ecommerce Website](ecommerce-site-omega-rose.vercel.app)
 
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
