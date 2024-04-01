@@ -42,7 +42,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 
 ## 💼 Packages :
-
 tailwind css - https://tailwindcss.com/
 react - https://react.dev
 vite js - https://vitejs.dev/guide/
@@ -50,13 +49,9 @@ react icons - https://react-icons.github.io/
 image- https://pngtree.com/freebackground
 
 
-## Deploy on netlify
+## Deploy on Vercel
+[Deployment link](https://ecommerce-site-q5xdqv9v4-olamides-projects-034f3bf9.vercel.app/)
 
-Easily deploy your Next.js app to Netlify!
-Netlify provides a streamlined workflow for hosting Next.js websites.
-For detailed guidance, refer to the official [Next.js deployment documentation](https://nextjs.org/docs/deployment)
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-## Additional notes:
-
-Netlify offers a free plan for personal projects, making it an attractive option for hobbyists and beginners.
-You can find plenty of resources online that specifically cover Next.js deployment on Netlify. A quick web search for "Next.js deploy Netlify" should provide helpful tutorials and guides.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
