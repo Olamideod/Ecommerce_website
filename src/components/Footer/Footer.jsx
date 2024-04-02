@@ -38,7 +38,7 @@ const Footer = () => {
               className="text-primary font-semibold tracking-widest text-2xl uppercase sm:text-3xl
 "
             >
-              Eshop
+              Eshop 
             </a>
             <p className="text-gray-600 dark:text-white/70  lg:pr-24 pt-3">
             Transforming Dreams into Reality. Explore Our Eshop for the Latest in Tech and Innovation. Your Journey Starts Here
@@ -49,7 +49,7 @@ const Footer = () => {
             
           </div>
 
-          {/* Footer links */}
+          {/* Footer links */
           <div className="col-span-2 grid grid-cols-2 sm:grid-cols-3 md:pl-10">
             <div className="py-8 px-4">
               <h1 className="text-xl font-bold sm:text-left mb-3">
@@ -93,7 +93,7 @@ const Footer = () => {
               <div>
                 <div className="flex items-center gap-3">
                   <FaLocationArrow />
-                  <p>Noida , Uttar Pradesh</p>
+                  <p>Lagos , Lekki</p>
                 </div>
                 <div className="flex items-center gap-3 mt-6">
                   <FaMobileAlt />

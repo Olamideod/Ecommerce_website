@@ -25,7 +25,7 @@ const BannerData = {
   title2: "Air Solo Bass",
   title3: "Winter Sale",
   title4:
-    "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque reiciendis",
+    "Revamp Your Sound Experience! Enjoy a Whopping 30% OFF on Fine Smile Headphones from 10 Jan to 28 Jan. Dive into the Winter Sale Now!",
   bgColor: "#f42c37",
 };
 
@@ -37,7 +37,7 @@ const BannerData2 = {
   title2: "Smart Solo",
   title3: "Winter Sale",
   title4:
-    "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque reiciendis",
+    "Unlock Incredible Savings! Discover Exclusive Deals on Smart Solo Watches During Our Winter Sale. Limited Time Offer. Don't Miss Out!",
   bgColor: "#2dcc6f",
 };
 
