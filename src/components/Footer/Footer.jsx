@@ -41,8 +41,7 @@ const Footer = () => {
               Eshop
             </a>
             <p className="text-gray-600 dark:text-white/70  lg:pr-24 pt-3">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores
-              alias cum
+            Transforming Dreams into Reality. Explore Our Eshop for the Latest in Tech and Innovation. Your Journey Starts Here
             </p>
             <p className="text-gray-500 mt-4">
               Made with 💖 by Oluwamusiwa Olamide

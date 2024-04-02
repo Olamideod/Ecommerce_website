@@ -10,24 +10,24 @@ const BlogData = [
   {
     title: "How to choose perfect smartwatch",
     subtitle:
-      "minima facere deserunt vero illo beatae deleniti eius dolores consequuntur, eligendi corporis maiores molestiae laudantium. Porro?",
-    published: "Jan 20, 2024 by Dilshad",
+      "Mastering the Quest for the Ideal Smartwatch: Unraveling the Maze of Features and Functions to Discover Your Perfect Companion!",
+    published: "Jan 20, 2024 by Olamide",
     image: Img1,
     aosDelay: "0",
   },
   {
     title: "How to choose perfect gadget",
     subtitle:
-      "minima facere deserunt vero illo beatae deleniti eius dolores consequuntur, eligendi corporis maiores molestiae laudantium. Porro?",
-    published: "Jan 20, 2024 by Satya",
+      "Decoding the Art of Gadget Selection: Navigating Through Options to Find the Perfect Match for Your Needs and Desires!",
+    published: "Jan 20, 2024 by Olamide",
     image: Img2,
     aosDelay: "200",
   },
   {
     title: "How to choose perfect VR headset",
     subtitle:
-      "minima facere deserunt vero illo beatae deleniti eius dolores consequuntur, eligendi corporis maiores molestiae laudantium. Porro?",
-    published: "Jan 20, 2024 by Sabir",
+      "Embark on Your Virtual Reality Journey: A Detailed Exploration to Discovering the Ideal Headset for Your Immersive Adventures!",
+    published: "Mar 31, 2024 by Olamide",
     image: Img3,
     aosDelay: "400",
   },
