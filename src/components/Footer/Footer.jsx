@@ -35,8 +35,7 @@ const Footer = () => {
           <div className="py-8 px-4">
             <a
               href="#"
-              className="text-primary font-semibold tracking-widest text-2xl uppercase sm:text-3xl
-"
+              className="text-primary font-semibold tracking-widest text-2xl uppercase sm:text-3xl"
             >
               Eshop 
             </a>
@@ -46,10 +45,9 @@ const Footer = () => {
             <p className="text-gray-500 mt-4">
               Made with 💖 by Oluwamusiwa Olamide
             </p>
-            
           </div>
 
-          {/* Footer links */
+          {/* Footer links */}
           <div className="col-span-2 grid grid-cols-2 sm:grid-cols-3 md:pl-10">
             <div className="py-8 px-4">
               <h1 className="text-xl font-bold sm:text-left mb-3">
